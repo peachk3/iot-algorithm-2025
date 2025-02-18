@@ -12,7 +12,6 @@ class Node:
     def setLink(self, link):
         self.__link = link
         
-    
     def getData(self):
         return self.__data
     
