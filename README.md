@@ -102,6 +102,10 @@ IoT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
                         [파이썬](./day06/da02-1_fracal01.py)
                         [파이썬](./day06/da03_fractal02.py)
 
+
+    https://github.com/user-attachments/assets/8fefd6e1-6e6d-48bb-bd78-bee2defb535f
+
+
 - 자료구조/알고리즘
     - 정렬 : [노트북](./day06/da04_sort.ipynb)
         - 정렬 연습 : [파이썬](./day06/da04-1_sort.py)
